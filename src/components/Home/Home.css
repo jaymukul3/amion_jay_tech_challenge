@@ -1,0 +1,12 @@
+.start-header{
+    border-bottom: 1px solid #E5E5E5;
+}
+.start-body{
+    padding-top: 1vh;
+    overflow: hidden;
+}
+.start-header, .start-body{
+    width: 100vh;
+    margin: auto;
+}
+
