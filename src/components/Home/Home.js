@@ -1,7 +1,3 @@
-// This component is not in use, but for backup need
-// This could be used for applying React-Router to reestablish the front-end structure
-
-
 import React from 'react';
 import './Home.css';
 import axios from 'axios';
